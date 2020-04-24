@@ -1,0 +1,8 @@
+# Datasets
+*.csv
+
+# Models
+*.sav
+
+# Doc
+*.pdf
